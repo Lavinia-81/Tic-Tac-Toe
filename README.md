@@ -48,8 +48,8 @@ This project demonstrates foundational front‑end development concepts such as:
 Tic-Tac-Toe/
 │
 ├── index.html        # Game board structure
-├── style.css         # Styling and layout
-├── app.js            # Game logic and interactivity
+├── 3Tstyle.css         # Styling and layout
+├── 3Tscript.js            # Game logic and interactivity
 │
 └── README.md         # Documentation
 ```
